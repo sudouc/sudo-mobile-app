@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "raw_project",
+    "description": "This project is really great.",
+    "slug": "raw_project",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/bg.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#FEF9B0"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+  }
+}
