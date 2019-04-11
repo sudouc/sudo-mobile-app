@@ -1,6 +1,8 @@
-# expo-project-barebones
+# Sudo Mobile App
 
-Barebones project demonstrating a basic React Native & Expo Project.
+This example can be followed here:
+
+https://blog.sudo.org.au/sudo-session-react-native-week-9/
 
 ### Project basic setup & configurations
 👉 *app.json*
